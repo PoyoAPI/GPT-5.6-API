@@ -6,7 +6,7 @@ Call GPT-5.6 Luna, Terra, or Sol through PoYo's Responses-compatible API with ex
 
 **Answer:** To use the GPT-5.6 API, send a server-side request to `POST https://api.poyo.ai/v1/responses` with model `gpt-5-6-luna`, `gpt-5-6-terra`, `gpt-5-6-sol` and a PoYo API key. The examples in this repository are runnable with Node.js 22+ or cURL.
 
-Last verified against the live PoYo schema and pricing on **August 9, 2026**.
+Last verified against the live PoYo schema and pricing on **November 16, 2026**.
 
 ## Quickstart
 
