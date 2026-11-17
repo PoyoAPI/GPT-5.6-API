@@ -1,6 +1,6 @@
 # GPT-5.6 API: runnable cURL and Node.js examples
 
-[![PoYo model page](https://img.shields.io/badge/Try%20on%20PoYo-gpt--5--6--api-84cc16)](https://poyo.ai/models/gpt-5-6) [![API docs](https://img.shields.io/badge/API-docs-22d3ee)](https://docs.poyo.ai/api-manual/chat-series/responses) [![Check](https://github.com/PoyoAPI/gpt-5-6-api/actions/workflows/check.yml/badge.svg)](https://github.com/PoyoAPI/gpt-5-6-api/actions/workflows/check.yml)
+[![PoYo model page](https://img.shields.io/badge/Try%20on%20PoYo-gpt--5--6--api-84cc16)](https://poyo.ai/models/gpt-5-6) [![API docs](https://img.shields.io/badge/API-docs-22d3ee)](https://docs.poyo.ai/api-manual/chat-series/responses) [![Check](https://github.com/PoyoAPI/GPT-5.6-API/actions/workflows/check.yml/badge.svg)](https://github.com/PoyoAPI/GPT-5.6-API/actions/workflows/check.yml)
 
 Call GPT-5.6 Luna, Terra, or Sol through PoYo's Responses-compatible API with exact model IDs and a minimal Node.js example.
 
